@@ -1,0 +1,11 @@
+# created by virtualenv automatically
+### Django ###
+*.log
+*.pot
+*.pyc
+__pycache__/
+local_settings.py
+
+.env
+db.sqlite3
+.sublime-project
