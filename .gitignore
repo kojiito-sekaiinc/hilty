@@ -19,6 +19,5 @@ staticfiles
 local_settings.py
 db.sqlite3
 *.csv
-
 hilty.sublime-project
 hilty.sublime-workspace
