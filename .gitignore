@@ -4,8 +4,21 @@
 *.pot
 *.pyc
 __pycache__/
-local_settings.py
 
-.env
+.Python
+[Bb]in
+[Ii]nclude
+[Ll]ib
+[Ll]ib64
+[Ll]ocal
+[Ss]cripts
+pyvenv.cfg
+.venv
+pip-selfcheck.json
+staticfiles
+local_settings.py
 db.sqlite3
-.sublime-project
+*.csv
+
+hilty.sublime-project
+hilty.sublime-workspace
